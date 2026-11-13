@@ -1,0 +1,33 @@
+{
+  "id": "./",
+  "name": "دفتر طلای مینائی",
+  "short_name": "طلای مینائی",
+  "description": "ثبت معاملات، تراز اجناس و تهاتر حساب‌ها",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1B2046",
+  "theme_color": "#1B2046",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
